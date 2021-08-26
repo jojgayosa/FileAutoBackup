@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoBackupFile.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Directories" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BackupName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SaveTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Auto" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Registered" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;B4-2E-99-64-02-3C&lt;/string&gt;
+  &lt;string&gt;50-9A-4C-6B-B8-5D&lt;/string&gt;
+  &lt;string&gt;50-9A-4C-6B-B8-5E&lt;/string&gt;
+  &lt;string&gt;18-66-DA-43-FC-C3&lt;/string&gt;
+  &lt;string&gt;00-FF-9A-0C-BA-63&lt;/string&gt;
+  &lt;string&gt;A4-BB-6D-B2-AB-3A&lt;/string&gt;
+  &lt;string&gt;E4-54-E8-6D-AA-38&lt;/string&gt;
+  &lt;string&gt;00-FF-97-C6-30-CC&lt;/string&gt;
+  &lt;string&gt;44-39-C4-37-65-8B&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
